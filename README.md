@@ -1,5 +1,4 @@
 # hello-world
 My first ever repository
 
-Hello,
-just adding some description to commit changes for the first time.
+Readme files only for git testing purposes. Nothing important here ^^
